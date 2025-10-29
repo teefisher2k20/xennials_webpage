@@ -1,0 +1,9 @@
+{
+  "name": "Xennials AI Automation Agency",
+  "description": "A modern AI automation agency's homepage balancing sleek tech minimalism with conversion-oriented structure. Features various Gemini AI capabilities for demonstration.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
